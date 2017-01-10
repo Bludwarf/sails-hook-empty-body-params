@@ -1,0 +1,17 @@
+{
+ "name": "sails-hook-empty-body-params",
+ "version": "1.0.0",
+ "description": "set all empty body params to null",
+ "main": "index.js",
+ "author": "bludwarf@gmail.com",
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/Bludwarf/sails-hook-empty-body-params.git"
+  },
+ "devDependencies": {
+   "sails": "~0.12.3"
+ },
+ "sails": {
+   "isHook": true
+ }
+}
